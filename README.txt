@@ -4,9 +4,11 @@ Description of Code: The code in the radixSort.c takes an argument at execution 
 
 
 How To Run The Program:
-g++ -o radix radixSort.cpp
+Save files in linux machine and then run the following
+
+g++ -o radix radixSort.c
 ./radix <base>
 
 Example to run with base 10:
-g++ -o radix radixSort.cpp
+g++ -o radix radixSort.c
 ./radix 10
